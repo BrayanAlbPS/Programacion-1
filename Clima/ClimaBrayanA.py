@@ -1,3 +1,4 @@
+#Programa para ver de manera grafica en una ventana, cosas sobre el clima
 import matplotlib.pyplot as plt
 import numpy as np
 def carga_datos(nombre_archivo):

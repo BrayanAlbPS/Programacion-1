@@ -1,3 +1,4 @@
+#Juego de cartas del "21" contra un proovedor aleatorio
 def dibujar_carta(valor, palo):
     print("+---------+")
     print(f"| {valor:<2}      |")
